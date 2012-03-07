@@ -1,0 +1,3 @@
+[submodule "wintermoon-reloaded"]
+	path = wintermoon-reloaded
+	url = git@github.com:wintermoon/wintermoon-reloaded.git
